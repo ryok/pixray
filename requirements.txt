@@ -18,7 +18,7 @@ ipython==7.28.0
 kornia==0.6.1
 omegaconf==2.1.1
 Pillow==8.3.2
-PyYAML==5.4.1
+#PyYAML==5.4.1
 scikit_learn==1.0
 scikit-image==0.18.3
 torch_optimizer==0.1.0

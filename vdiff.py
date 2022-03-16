@@ -5,7 +5,7 @@ from DrawingInterface import DrawingInterface
 
 import sys
 import subprocess
-sys.path.append('v-diffusion-pytorch')
+sys.path.append('/v-diffusion-pytorch')
 import os
 import os.path
 import torch
